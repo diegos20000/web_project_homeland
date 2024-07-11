@@ -36,7 +36,7 @@
   /*display: grid;
   grid-template-rows: 18px;*/
 }
-.places__url-heading {
+.places__url_heading {
   margin: 0;
 }
 
@@ -78,7 +78,7 @@
   align-items: center;
   justify-content: center;
   font-family: "Inter";
-  background: linear-gradient(90deg, #0278fe 0%, #003a7b 100%);
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   width: 280px;
   height: 48px;
   border-radius: 4px;

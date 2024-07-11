@@ -9,6 +9,7 @@
   padding-top: 165px;
   gap: 16px;
   box-sizing: border-box;
+  box-shadow: none;
 }
 
 .photo__grid img {
