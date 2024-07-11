@@ -3,14 +3,16 @@
   justify-content: center;
   max-width: 194px;
   font-size: 1em;
-  margin: auto auto;
+  margin: auto;
+  margin-top: 90px;
   padding-bottom: 24px;
+
   font-weight: 400;
 }
 
 @media screen and (max-width: 320px) {
   .footer__copyright {
     font-size: 0.87em;
-    margin-top: 300px;
+    margin-top: 64px;
   }
 }
