@@ -6,9 +6,15 @@
   /*margin-bottom: 92px;*/
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
-  padding-top: 165px;
+  padding-top: 118px;
   gap: 16px;
   box-sizing: border-box;
+}
+
+.photo__item {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /*@media screen and (max-width: 768px) {

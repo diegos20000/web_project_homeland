@@ -2,9 +2,9 @@
   /*margin-top: 92px;
   margin-left: 148px;*/
   /*margin: 92px auto;*/
-  margin: 92px 302px 92px 160px;
+  margin: 92px 302px 0 160px;
   width: 830px;
-  height: 607px;
+  /*height: 607px;*/
 }
 
 .intro__title {
